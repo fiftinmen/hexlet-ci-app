@@ -8,7 +8,7 @@ jobs:
 
             - uses: snyk/actions@0.4.0
               env:
-                SNY_TOKEN: ${{secrets.SNYK_SECRET}}
+                SNYK_TOKEN: ${{ secrets.SNYK_SECRET }}
             
             - uses: actions/setup-node@v3
               with: 
