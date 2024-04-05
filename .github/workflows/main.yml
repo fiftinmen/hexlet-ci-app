@@ -6,7 +6,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
 
-            - uses: snyk/actions@v0.4.0
+            - uses: snyk/actions@0.4.0
               env:
                 SNY_TOKEN: ${{secrets.SNYK_SECRET}}
             
