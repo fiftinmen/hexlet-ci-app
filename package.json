@@ -23,7 +23,7 @@
   "dependencies": {
     "@strapi/plugin-i18n": "4.11.7",
     "@strapi/plugin-users-permissions": "4.15.5",
-    "@strapi/strapi": "4.22.0"
+    "@strapi/strapi": "4.15.2"
   },
   "author": {
     "name": "A Strapi developer"
