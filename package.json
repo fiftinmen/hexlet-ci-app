@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@strapi/plugin-i18n": "4.11.7",
-    "@strapi/plugin-users-permissions": "4.15.5",
+    "@strapi/plugin-users-permissions": "4.24.2",
     "@strapi/strapi": "4.22.0"
   },
   "author": {
